@@ -173,7 +173,7 @@ Respecto al Tipo 3 la primera observación es la poca cobertura positiva si lo c
 </div>
 <center> Tipos 7, 3 y 0 respectivamente. Fechas ordenadas por mes. </center>
 
-Acá se puede ver claramente en el Tipo 9 (donde hay más registros) que durante inicios de mayo hubo una tendencia hacia noticias positivas. Debemos fijarnos en el punto medio de la distribución de cajas y en particular para el medio El Mercurio (caja azul). Esto cayo notablemente el 27 de mayo, para luego repuntar gradualmente. Quizás se haya debido a algún incidente de notoriedad pública. 
+Fijémonos ahora en el punto medio de la distribución de cajas. Acá se puede ver claramente en el Tipo 0 (donde hay más registros) que durante septiembre y la primavera una tendencia hacia noticias positivas. Incluso el medio La Estrella sigue la tendencia (eso si, no durante noviembre). Los meses más problemáticos son el verano, quizás se haya debido a algún incidente de notoriedad pública (¿incendios?). 
 
 Hagamos ahora el mismo análisis pero agrupado por ciudad. Esto solo tiene sentido hacerlo para el Tipo 0, ya que los demás tienen muy pocos registros como para ver tendencias. 
 <!-- ### Evolución temporal de los sentimientos agrupados por ciudad -->
