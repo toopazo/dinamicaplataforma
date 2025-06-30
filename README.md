@@ -185,9 +185,9 @@ Hagamos ahora el mismo análisis pero agrupado por ciudad. Esto solo tiene senti
  <img src="output/low_impact_media_boxplot_Til Til_fecha_sentiment.png" alt="" width="300" />
  <img src="output/low_impact_media_boxplot_Colina_fecha_sentiment.png" alt="" width="300" />
 </div>
-<center> Análisis de boxplot para Tipo 0 en Calle Larga, Colina y Los Andres respectivamente. </center>
+<center> Análisis de boxplot para Tipo 0 en Los Andres, Calle Larga, Til Til y Colina respectivamente. </center>
 
-Acá es claro que ciertos medios tienen coberturas más positivas que otros de manera consistente a lo largo del tiempo. Colina casi no tiene menciones. En el caso de Los Andes da sistemáticamente una cobertura menos positiva que El Mercurio y El Trabajo, algo curioso. 
+Acá es claro que ciertos medios tienen coberturas más positivas que otros de manera consistente a lo largo del tiempo. Til Til casi no tiene menciones. Calle Larga es muy cubierto por El Trabajo y de manera eventual por los demás medios. En el caso de Los Andes y Colina, el medio La Estrella da sistemáticamente una cobertura menos positiva que El Mercurio y El Trabajo, algo curioso. Es probable que sea un diario más pesimista o que se centre en temas de seguridad.  
 
 
 ## Futuros análisis posibles
