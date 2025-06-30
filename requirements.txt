@@ -1,0 +1,32 @@
+# General purpose
+# fastapi
+pandas
+pillow
+opencv-python
+numpy
+pipreqs
+zmq
+PyYAML
+scikit-learn
+python-dotenv
+openpyxl
+matplotlib
+seaborn
+tqdm
+
+# Database
+# psycopg2-binary
+
+# Huggingface
+# datasets[vision]
+# transformers
+# accelerate
+# evaluate
+
+# torch
+# torch
+# torchvision
+
+# AI
+# albumentations 
+# pytesseract
